@@ -1,0 +1,2 @@
+#Cualquier fichero que se llame DS_Store no se incluira dentro del commit
+**/.DS_Store
